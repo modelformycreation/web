@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="G. Venkata Shashank cybersecurity portfolio preview">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#07101d"/>
+      <stop offset=".55" stop-color="#08152a"/>
+      <stop offset="1" stop-color="#120f2a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="155" y1="122" x2="1020" y2="504" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2dd4bf"/>
+      <stop offset=".52" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="48"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="164" cy="100" r="190" fill="#38bdf8" opacity=".18" filter="url(#blur)"/>
+  <circle cx="1040" cy="500" r="220" fill="#a78bfa" opacity=".18" filter="url(#blur)"/>
+  <path d="M0 80h1200M0 160h1200M0 240h1200M0 320h1200M0 400h1200M0 480h1200M0 560h1200M120 0v630M240 0v630M360 0v630M480 0v630M600 0v630M720 0v630M840 0v630M960 0v630M1080 0v630" stroke="#94a3b8" stroke-opacity=".08"/>
+  <rect x="82" y="78" width="1036" height="474" rx="38" fill="#0d1b2f" fill-opacity=".68" stroke="#2dd4bf" stroke-opacity=".32"/>
+  <text x="120" y="164" fill="#2dd4bf" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800" letter-spacing="4">OFFENSIVE SECURITY • RESPONSIBLE DISCLOSURE</text>
+  <text x="120" y="258" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="900">G. Venkata Shashank</text>
+  <text x="120" y="326" fill="#b6c7df" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Web Pentesting · OWASP Top 10 · Python Automation</text>
+  <rect x="120" y="398" width="228" height="70" rx="20" fill="#2dd4bf" fill-opacity=".12" stroke="#2dd4bf" stroke-opacity=".34"/>
+  <text x="146" y="442" fill="#dffbff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">8 disclosures</text>
+  <rect x="372" y="398" width="224" height="70" rx="20" fill="#fb7185" fill-opacity=".10" stroke="#fb7185" stroke-opacity=".28"/>
+  <text x="398" y="442" fill="#ffe4e6" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">4 critical</text>
+  <rect x="620" y="398" width="270" height="70" rx="20" fill="#38bdf8" fill-opacity=".10" stroke="#38bdf8" stroke-opacity=".28"/>
+  <text x="646" y="442" fill="#e0f2fe" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">Top 5% Razzify</text>
+  <path d="M956 116h72c30 0 54 24 54 54v72" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M244 514h-72c-30 0-54-24-54-54v-72" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round"/>
+</svg>
